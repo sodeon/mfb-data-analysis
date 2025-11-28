@@ -1,0 +1,13 @@
+Q:
+List business units of company stock symbol {SYMBOL}
+Output format:
+1. csv table. file name: {SYMBOL}.csv
+2. columns: segment, revenue share, revenue, market share, , changes (%) from last year, notes
+3. Additional non-csv format information stored in {SYMBOL}.txt
+
+Q:
+For each product segments of stock symbol {SYMBOL}, list top 3 main competitors
+Output:
+1. csv file, file name: {SYMBOL}-competitors.csv
+2. columns: segments, competitor, symbol, market share, market cap, notes
+3. Additional non-csv format information stored in {SYMBOL}-competitors.txt

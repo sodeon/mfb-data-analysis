@@ -1,0 +1,36 @@
+Stanley Black & Decker (SWK) Competitive Landscape Analysis
+
+1. BUSINESS SEGMENT OVERVIEW
+------------------------------------------------
+SWK recently streamlined its operations into two primary reporting segments after divesting its Security business to Securitas AB in 2022.
+
+A. Tools & Outdoor (~85% of Revenue)
+   - Includes Power Tools (DeWalt, Craftsman, Black+Decker), Hand Tools (Stanley, Irwin), and Outdoor Power Equipment (Cub Cadet, Hustler).
+   - This is the core revenue driver.
+   - The main competitive dynamic is the "Platform War" regarding battery technology (e.g., DeWalt FlexVolt vs. Milwaukee M18).
+
+B. Industrial (~15% of Revenue)
+   - Includes Engineered Fastening (aerospace and automotive fasteners) and Infrastructure.
+   - This segment is highly specialized and B2B focused.
+
+2. DETAILED COMPETITOR CONTEXT
+------------------------------------------------
+
+A. Techtronic Industries (TTNDY)
+   - The fiercest competitor to SWK.
+   - Brand Strategy: They position 'Ryobi' for DIY (competing with Black+Decker/Craftsman) and 'Milwaukee' for Professionals (competing with DeWalt).
+   - Milwaukee has gained significant market share over the last decade through aggressive innovation in cordless technology.
+
+B. Bosch & Makita
+   - Bosch (Private) and Makita (Public) represent the traditional engineering powerhouses. 
+   - While SWK and TTI focus heavily on North American retail channels (Home Depot vs. Lowe's), Bosch and Makita maintain very strong footholds in Europe and Asia.
+
+C. Industrial Fragmented Market
+   - The Industrial segment does not have one single "arch-rival" like the Tools segment does. 
+   - Instead, it faces competition from large conglomerates like Illinois Tool Works (ITW) in general construction, and specialized firms like Howmet Aerospace (HWM) in the aerospace fastening niche.
+   - Pricing power in this segment is often dictated by raw material costs (steel, resin) and global supply chain stability.
+
+3. STRATEGIC NOTES
+------------------------------------------------
+- Retail Alignment: SWK has a strong relationship with Lowe's and Home Depot, though TTI (Milwaukee/Ryobi) has an exclusive strategic partnership with Home Depot, forcing SWK to lean heavier on Lowe's and other distributors for certain brands.
+- Market Cap Context: Market capitalization values listed in the CSV are approximate as of early 2024 and subject to market fluctuation.
