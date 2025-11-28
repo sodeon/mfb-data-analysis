@@ -1,0 +1,22 @@
+APPLE INC. (AAPL) - ADDITIONAL BUSINESS CONTEXT
+Data Source: Fiscal Year 2023 Annual Report (10-K)
+Period Ended: September 30, 2023
+
+1. GEOGRAPHIC REVENUE BREAKDOWN
+While the CSV details product segments, Apple's geographic performance is distinct:
+- Americas: Largest market contributor.
+- Europe: Second largest market.
+- Greater China: Critical for both sales and supply chain.
+- Japan & Rest of Asia Pacific: Developing markets.
+
+2. MARGIN ANALYSIS
+- Gross Margin generally differs significantly between segments. 
+- The 'Services' segment typically commands a much higher gross margin (often ~70%) compared to 'Products' (often ~35-37%).
+- As the revenue share of Services grows, Apple's overall company gross margin tends to expand.
+
+3. MARKET SHARE DATA DISCLAIMER
+- Apple stopped reporting unit sales figures (the exact number of iPhones, Macs, etc. sold) in 2018.
+- The "Market Share" figures in the CSV are estimates based on third-party market research (e.g., IDC, Counterpoint Research, Canalys) and can fluctuate quarterly.
+
+4. EMERGING SEGMENTS
+- Apple Vision Pro (Spatial Computing): Launched subsequent to this reporting period, revenues for this product fall under the 'Wearables, Home, and Accessories' category.
