@@ -1,0 +1,46 @@
+Type,Data Name,Readable Name,Notes
+is,revenue,Revenue,Total money received for goods/services.
+is,cost_of_revenue,Cost of Revenue,Direct costs (COGS) associated with revenue.
+is,gross_profit,Gross Profit,Revenue - Cost of Revenue.
+is,operating_expenses,Operating Expenses,"SG&A, R&D, and other non-direct costs."
+is,selling_general_admin,SG&A Expenses,"Selling, General, and Administrative expenses."
+is,research_development,R&D Expenses,Research and Development costs.
+is,operating_income,Operating Income,Profit from core business operations (Gross Profit - Op Expenses).
+is,interest_expense_net,"Interest Expense, Net",Interest paid minus interest received.
+is,pretax_income_loss,Pretax Income (Loss),Earnings before tax.
+is,income_tax_expense,Income Tax Expense,Levies paid to the government.
+is,net_income,Net Income,"The ""bottom line"" profit."
+bs,cash_and_cash_equivalents,Cash & Equivalents,Liquid assets available immediately.
+bs,receivables,Accounts Receivable,Money owed to the company by customers.
+bs,inventories,Inventories,Raw materials and finished goods.
+bs,total_current_assets,Total Current Assets,Assets expected to be sold/used within a year.
+bs,property_plant_equipment,"Property, Plant & Eq.","Long-term physical assets (PP&E), Net."
+bs,intangible_assets,Intangible Assets,"Non-physical assets (patents, trademarks)."
+bs,goodwill,Goodwill,Premium paid over fair value during acquisitions.
+bs,long_term_investments,Long Term Investments,Investments held for >1 year.
+bs,total_assets,Total Assets,Sum of all current and non-current assets.
+bs,payables,Accounts Payable,Money owed by the company to suppliers.
+bs,short_term_debt,Short Term Debt,Debt due within 1 year.
+bs,total_current_liabilities,Total Current Liab.,Obligations due within a year.
+bs,long_term_debt,Long Term Debt,Debt due after 1 year.
+bs,total_liabilities,Total Liabilities,Sum of all debts and obligations.
+bs,share_capital,Share Capital,Funds raised in exchange for stock.
+bs,retained_earnings,Retained Earnings,Cumulative net earnings not distributed as dividends.
+bs,total_equity,Total Equity,Total Assets - Total Liabilities.
+cf,depreciation_amortization,Depreciation & Amort.,Non-cash expense added back to Net Income.
+cf,change_in_working_capital,Change in Working Cap.,"Cash effect of changes in AR, Inventory, AP."
+cf,cash_from_operating,Cash from Operations,Net cash generated from core business.
+cf,capex,Capital Expenditures,Cash spent on physical assets (usually negative).
+cf,cash_from_investing,Cash from Investing,Cash from buying/selling assets/investments.
+cf,dividends_paid,Dividends Paid,Cash distributed to shareholders.
+cf,cash_from_financing,Cash from Financing,Cash from debt/equity issuance or repayment.
+cf,net_change_in_cash,Net Change in Cash,"Sum of Operating, Investing, and Financing flows."
+ri,ebitda,EBITDA,"Earnings Before Interest, Tax, Depr, Amort."
+ri,free_cash_flow,Free Cash Flow,Cash from Operating - Capex.
+ri,gross_profit_margin,Gross Margin,Gross Profit / Revenue.
+ri,operating_margin,Operating Margin,Operating Income / Revenue.
+ri,net_profit_margin,Net Profit Margin,Net Income / Revenue.
+ri,return_on_equity,ROE,Net Income / Total Equity.
+ri,return_on_assets,ROA,Net Income / Total Assets.
+ri,current_ratio,Current Ratio,Current Assets / Current Liabilities.
+ri,liabilities_to_equity,Debt to Equity Ratio,Total Liabilities / Total Equity.

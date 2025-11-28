@@ -9,6 +9,9 @@ install.packages(c("optparse", "simfinapi", "lubridate", "dplyr", "readr", "fs")
 # AI chat
 install.packages(c("ellmer", "docopt", "readr", "stringr", "fs"))
 
+# Raw data restructure
+install.packages(c("optparse", "openxlsx", "stringr", "readr"))
+
 
 
 #--------------------------------------------------
