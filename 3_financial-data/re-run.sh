@@ -1,4 +1,6 @@
 #!/usr/bin/bash -ue
+shopt -s expand_aliases
+which Rscript || alias Rscript="Rscript.exe"
 
 start_date="2016-01-01"
 

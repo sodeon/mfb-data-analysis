@@ -1,7 +1,10 @@
 #!/usr/bin/bash -ue
+shopt -s expand_aliases
+which Rscript || alias Rscript="Rscript.exe"
 
-symbol="AAPL"
-google_api_key=AIzaSyDGAoirUab5Ch7cedbmTTqDJOCmOiBR6YU 
+export GOOGLE_API_KEY="AIzaSyBCX8vFG6CKYchSo8ByvUZq8ZJC0FR-sNM"
+export WSLENV=GOOGLE_API_KEY
+symbol="GOOG"
 model="gemini-3-pro-preview"
 
-GOOGLE_API_KEY="$google_api_key" Rscript ../src/template-ai-chat.r prompt.txt ./results -r {SYMBOL}="$symbol" -m $model
+Rscript ../src/template-ai-chat.r prompt.txt ./results -r {SYMBOL}="$symbol" -m $model

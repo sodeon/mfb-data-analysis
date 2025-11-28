@@ -1,0 +1,37 @@
+ALPHABET INC. (GOOG/GOOGL) - COMPETITIVE LANDSCAPE ANALYSIS
+
+1. INTRODUCTION
+Alphabet Inc. operates as a conglomerate with various subsidiaries. While "Google Services" (Search, Ads, Android, YouTube) generates the bulk of revenue, "Google Cloud" and "Other Bets" (Waymo, Verily, etc.) face distinct competitive environments.
+
+2. SEGMENT-SPECIFIC CONTEXT
+
+A. Search & AI (The Core)
+While Google holds a massive monopoly on search (~91%), the landscape is shifting from traditional keyword search to Generative AI.
+- The Main Threat: Microsoft (MSFT) has integrated OpenAI's GPT-4 into Bing, attempting to erode Google's dominance.
+- Emerging Threat: Perplexity AI and ChatGPT (OpenAI) are becoming direct destinations for information retrieval, bypassing traditional search engines entirely.
+
+B. Cloud Computing (GCP)
+Google Cloud Platform is firmly in 3rd place behind AWS and Azure.
+- Strategy: Google differentiates via data analytics, BigQuery, and AI/ML capabilities.
+- Competition: The "Big Three" (Amazon, Microsoft, Google) account for roughly 66% of the global market.
+
+C. Digital Advertising
+This is a three-horse race often called "The Triopoly": Google, Meta, and Amazon.
+- Trend: Amazon is eating into market share because its ads appear at the "point of purchase," offering better conversion data than top-of-funnel search ads.
+- Regulatory Risk: Google faces antitrust lawsuits regarding its ad-tech stack, which could force divestitures, changing the competitor list significantly.
+
+3. "OTHER BETS" ANALYSIS
+
+A. Waymo (Autonomous Driving)
+- Waymo is currently leading in actual driverless commercial operations (L4 autonomy).
+- Tesla is the main ideological competitor, betting on a vision-only approach (FSD) deployed to millions of consumer cars, whereas Waymo relies on LiDAR/Mapping in geofenced areas.
+
+4. MARKET DATA DISCLAIMERS
+- Market Share: Figures are approximate based on 2023-2024 reports from StatCounter, Synergy Research Group, and eMarketer.
+- Market Cap: Values are approximate estimates as of mid-2024 and fluctuate daily.
+- Private Companies: Valuations for ByteDance (TikTok) or OpenAI are based on recent funding rounds or secondary market estimates.
+
+5. ABBREVIATIONS USED
+- SVOD: Subscription Video on Demand
+- APAC: Asia-Pacific
+- FSD: Full Self-Driving

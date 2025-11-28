@@ -1,0 +1,22 @@
+Alphabet Inc. (GOOG/GOOGL) Business Unit Overview - FY 2023
+
+1. **Strategic Focus**:
+   Alphabet is primarily an advertising company, with "Google Search & other" contributing the vast majority of revenue. However, the company is aggressively diversifying into Cloud Computing (Google Cloud) and Hardware/Subscriptions (Google Other Services).
+
+2. **Google Cloud Performance**:
+   - This segment turned profitable on an operating basis during FY 2023, marking a significant milestone.
+   - It remains the fastest-growing major segment (+25.9% YoY), competing primarily with AWS (Amazon) and Azure (Microsoft).
+
+3. **"Other Bets" Context**:
+   - This segment includes "moonshot" projects like Waymo (autonomous driving) and Verily (life sciences).
+   - While revenue grew significantly (+43%), this segment continues to operate at a significant operating loss (approx. $4.1B loss in 2023), reflecting heavy R&D investment.
+
+4. **Market Position Notes**:
+   - Search: Maintains a global monopoly-like status with over 90% market share in general search.
+   - Digital Ads: While still dominant, Alphabet faces increasing competition from Amazon and TikTok in the digital advertising space.
+   - AI Integration: 2023/2024 marks a pivot toward integrating Gemini (AI models) into all business units, particularly Search (SGE) and Cloud.
+
+5. **Financial Summary (FY 2023)**:
+   - Total Revenue: $307.39 Billion
+   - Operating Income: $84.29 Billion
+   - The "Google Services" umbrella (Search, YouTube, Network, Hardware) accounts for nearly 89% of total revenue.

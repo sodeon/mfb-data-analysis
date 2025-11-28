@@ -1,0 +1,19 @@
+segments,competitor,symbol,market share,market cap,notes
+Search Engine,Microsoft (Bing),MSFT,~3-9% (Global),~$3.1T,Main challenger using OpenAI integration
+Search Engine,Baidu,BIDU,~60-65% (China),~$33B,Dominant player in the Chinese market
+Search Engine,Yahoo!,N/A (Private),~1-2% (Global),N/A,Often powered by Bing backend but remains a portal competitor
+Cloud Computing (Infrastructure),Amazon (AWS),AMZN,~31% (Global),~$1.9T,Current market leader in cloud infrastructure
+Cloud Computing (Infrastructure),Microsoft (Azure),MSFT,~24% (Global),~$3.1T,Strongest competitor in enterprise cloud adoption
+Cloud Computing (Infrastructure),Alibaba Cloud,BABA,~4% (Global),~$175B,Major competitor in APAC region
+Digital Advertising,Meta Platforms,META,~21% (Global),~$1.2T,Dominates social media display advertising
+Digital Advertising,Amazon Ads,AMZN,~13% (Global),~$1.9T,Rapidly growing due to high purchase intent data
+Digital Advertising,TikTok (ByteDance),N/A (Private),~3-4% (Global Est),~$220B (Valuation),Strong competitor in short-form video ad inventory
+Mobile Operating System,Apple (iOS),AAPL,~28% (Global),~$2.6T,Main competitor; duopoly with Android (approx 71%)
+Mobile Operating System,Huawei (HarmonyOS),N/A,~4% (Global),N/A,Growing alternative in China following Android restrictions
+Mobile Operating System,Samsung (Tizen/OneUI),SSNLF,<1% (Standalone),~$360B,Mostly shifted to Android skin but competes in Wearables/TVs
+Video Streaming (YouTube),Netflix,NFLX,~8% (US TV Time),~$260B,Leader in Subscription Video On Demand (SVOD)
+Video Streaming (YouTube),Meta (Reels/IG),META,N/A,~$1.2T,Direct competitor for user attention in short-form video
+Video Streaming (YouTube),Amazon (Twitch/Prime),AMZN,N/A,~$1.9T,Competes in both live streaming (Twitch) and VOD
+Autonomous Driving (Waymo),Tesla,TSLA,N/A (FSD Beta),~$550B,Competes via FSD data collection vs Waymo's Robo-taxi model
+Autonomous Driving (Waymo),Cruise (GM),GM,N/A,~$50B (GM Cap),Direct Robo-taxi competitor owned by General Motors
+Autonomous Driving (Waymo),Zoox (Amazon),AMZN,N/A,~$1.9T (Parent),Purpose-built robotaxis owned by Amazon
